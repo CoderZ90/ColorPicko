@@ -12,7 +12,9 @@ ColorPicko is a very simple and minimilastic extension to pick color from anywhe
 ## To Install
 
 1.Download the .zip and extract it
+<br />
 2. Go to chrome://extension or edge://extension and enable developer options
+<br />
 3. Drag and Drop the folder you extracted
 
 Voila! you are done
